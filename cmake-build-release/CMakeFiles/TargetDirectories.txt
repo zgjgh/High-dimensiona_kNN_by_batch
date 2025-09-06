@@ -1,3 +1,0 @@
-D:/hdr_tree/batchknn/cmake-build-release/CMakeFiles/rebuild_cache.dir
-D:/hdr_tree/batchknn/cmake-build-release/CMakeFiles/batch_knn.dir
-D:/hdr_tree/batchknn/cmake-build-release/CMakeFiles/edit_cache.dir
