@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2020.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\batch_knn.dir/objects.a
+D:\mingw\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\batch_knn.dir/objects.a @CMakeFiles\batch_knn.dir\objects1.rsp
+D:\mingw\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -O3 -DNDEBUG   -Wl,--whole-archive CMakeFiles\batch_knn.dir/objects.a -Wl,--no-whole-archive  -o batch_knn.exe -Wl,--out-implib,libbatch_knn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\batch_knn.dir\linklibs.rsp

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="batch_knn"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/hdr_tree/batchknn/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/hdr_tree/batchknn/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="batch_knn">
+				<Option output="D:/hdr_tree/batchknn/cmake-build-release/batch_knn.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/hdr_tree/batchknn/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 batch_knn"/>
+					<CompileFile command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="batch_knn/fast">
+				<Option output="D:/hdr_tree/batchknn/cmake-build-release/batch_knn.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/hdr_tree/batchknn/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 batch_knn/fast"/>
+					<CompileFile command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/hdr_tree/batchknn/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/hdr_tree/batchknn/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/hdr_tree/batchknn/BPlusTree.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/BPlusTree.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Cluster.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Cluster_origin.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Cluster_origin.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clusteri.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clusters.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clusters.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clustersi.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clustersi.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clustersu.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clustersu.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Clusteru.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/DataBase.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/DataBase.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/HDR_Tree.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/HDR_Tree.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Item.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Item.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/LeafNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/LeafNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Littletree.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Littletree.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Node.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/Node.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/NonLeafNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/NonLeafNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/User.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/User.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemCluster.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemClusters.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemClusters.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemDataBase.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemDataBase.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemHDR_Tree.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemHDR_Tree.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemLeafNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemLeafNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemNonLeafNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/itemNonLeafNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/main.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/userLeafNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/userLeafNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/userNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/userNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/userNonLeafNode.cpp">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/userNonLeafNode.h">
+			<Option target="batch_knn"/>
+		</Unit>
+		<Unit filename="D:/hdr_tree/batchknn/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
