@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2020.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" D:\hdr_tree\batchknn
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/hdr_tree/batchknn/cmake-build-release
